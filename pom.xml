@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com</groupId>
 	<artifactId>linkwhatsapp</artifactId>
-	<version>01.0</version>
+	<version>1.0</version>
 	<name>linkwhatsapp</name>
 	<description>Gerador de links do Whatsapp</description>
 	<url/>
