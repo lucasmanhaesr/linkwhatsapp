@@ -19,6 +19,6 @@
 ```json
 {
     "number": "5511916683119",
-    "text": "boa noite estou testando essa API e se funcionar irá abrir a conversa no Whatsapp com essa conversa!"
+    "text": "Testando essa API e se funcionar irá abrir a conversa no Whatsapp!"
 }
 ```
